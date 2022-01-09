@@ -1,4 +1,4 @@
-**#Mission-to-Mars**
+**Mission-to-Mars**
 
 **Project Overview**
 
@@ -76,4 +76,24 @@ The following code was used to retriuve the full resolution images and titles fo
 The below block of codes dfisplayes the full resolution URLs and the image titles, confirming (once entered into a broweser) that the code in Step 3 was successful.
 
 ![Deliverable 1-2](https://user-images.githubusercontent.com/92111396/148694158-131c0925-ef38-483a-bf27-2f5bcef09ef4.PNG)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Deliverable 2**
+
+To complete Deliverable 2, a new scraping dictionary labelled "hemispheres" was created within the data dictionary in the scrape all function with the scraping.py file.   
+
+![Deliverable 2-1](https://user-images.githubusercontent.com/92111396/148694488-ed486867-3243-40ee-8e4b-c4237adaeba7.PNG)
+
+The following block of code was then added to scrape the data from multiple webpages and add it to our own.
+
+![Deliverable 2-2](https://user-images.githubusercontent.com/92111396/148694636-e50f1317-4195-43dd-9ad7-c8d36cf8ad9e.PNG)
+
+The final webpage produced via scraping, that cointained the data scraped from multiple web sources can be seen below.
+
+![Deliverable 2-3](https://user-images.githubusercontent.com/92111396/148694752-2e86c2a3-1876-4c3a-8525-b578eb14bc0b.PNG)
+
+
 
