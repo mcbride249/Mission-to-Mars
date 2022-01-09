@@ -52,13 +52,17 @@ https://github.com/mcbride249/Mission-to-Mars/blob/main/Mission_To_Mars_Challeng
 **Resources**
 
 -Data Source: Mission_To_Mars_Chall;enge.ipynb, app.py, scraping.py, index.html 
+
 -Software: Python 3.7.10, Visual Studio Code, 1.38.1, MongoDBCompass
+
+-Reference: getbootstrap.com, w3schools.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Module 10 - Challenge** 
 
 All code for this challenge can be found in the Mission_To Mars_Challenge folder.
+
 https://github.com/mcbride249/Mission-to-Mars/tree/main/Mission_To_Mars_Challenge
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
