@@ -78,7 +78,6 @@ The below block of codes dfisplayes the full resolution URLs and the image title
 ![Deliverable 1-2](https://user-images.githubusercontent.com/92111396/148694158-131c0925-ef38-483a-bf27-2f5bcef09ef4.PNG)
 
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Deliverable 2**
@@ -94,6 +93,28 @@ The following block of code was then added to scrape the data from multiple webp
 The final webpage produced via scraping, that cointained the data scraped from multiple web sources can be seen below.
 
 ![Deliverable 2-3](https://user-images.githubusercontent.com/92111396/148694752-2e86c2a3-1876-4c3a-8525-b578eb14bc0b.PNG)
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Deliverable 3**
+
+1. To make the web page mobile responsive the code: <meta name="viewport" content="width=device-width, initial-scale=1"> was added to the index.html file. 
+
+2. A number of Bootstrap 3 componeents were used to style the page: 
+
+    1. <div class="col-md-3"> was changed from <div class="col-md-6"> to accomodate the images to fit on a single row.
+  
+    2. The background colour of the page and text were changed to blue and red respectively, vis the following block of code: <body style="background-color:blue; color:red">. 
+  
+    3. The background colour of the header was changed to black using the following code: <div class="jumbotron text-center", style = "background-color:black".
+
+
+The mobile version of the web page can be seen below.
+                                                                                               
+![Deliverable 3-1](https://user-images.githubusercontent.com/92111396/148695735-412a3282-4a67-4b69-8f92-7979793a37e9.PNG)
+                                                                                          
 
 
 
