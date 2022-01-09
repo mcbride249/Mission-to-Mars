@@ -58,6 +58,9 @@ Assist a junior data scientist named Robin, in achieving her dream of achieving 
 
 **Module 10 - Challenge** 
 
+All code for this challenge can be found in the Mission_To Mars_Challenge folder.
+https://github.com/mcbride249/Mission-to-Mars/tree/main/Mission_To_Mars_Challenge
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Purpose**
