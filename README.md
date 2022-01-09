@@ -1,6 +1,6 @@
-**#Mission-to-Mars**
+**Mission-to-Mars**
 
-**##Project Overview**
+**Project Overview**
 
 Assist a junior data scientist named Robin, in achieving her dream of achieving a position at Nasa, by web scrape data specific data using Chrome Developer Tools (DevTools). A script was to be written that would gather all the information she searches for into one convenient location, and once gathered be able to be shared with others, with the intent of gaining interest and attention from Nasa. Specifically, this project is looking to gather information from the Mission to Mars from across the web and display the data in a central location, without having to spend time gathering the data manually.
 
