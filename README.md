@@ -82,11 +82,13 @@ The following code was used to retriuve the full resolution images and titles fo
 https://github.com/mcbride249/Mission-to-Mars/blob/main/Mission_To_Mars_Challenge/Resources/Images/Deliverable%201/Deliverable%201-1.PNG
 
 
+
 The below block of codes dfisplayes the full resolution URLs and the image titles, confirming (once entered into a broweser) that the code in Step 3 was successful.
 
 ![Deliverable 1-2](https://user-images.githubusercontent.com/92111396/148694158-131c0925-ef38-483a-bf27-2f5bcef09ef4.PNG)
 
 https://github.com/mcbride249/Mission-to-Mars/blob/main/Mission_To_Mars_Challenge/Resources/Images/Deliverable%201/Deliverable%201-2.PNG
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,11 +101,13 @@ To complete Deliverable 2, a new scraping dictionary labelled "hemispheres" was 
 https://github.com/mcbride249/Mission-to-Mars/blob/main/Mission_To_Mars_Challenge/Resources/Images/Deliverable%202/Deliverable%202-1.PNG
 
 
+
 The following block of code was then added to scrape the data from multiple webpages and add it to our own.
 
 ![Deliverable 2-2](https://user-images.githubusercontent.com/92111396/148694636-e50f1317-4195-43dd-9ad7-c8d36cf8ad9e.PNG)
 
 https://github.com/mcbride249/Mission-to-Mars/blob/main/Mission_To_Mars_Challenge/Resources/Images/Deliverable%202/Deliverable%202-2.PNG
+
 
 
 The final webpage produced via scraping, that cointained the data scraped from multiple web sources can be seen below.
